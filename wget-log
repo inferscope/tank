@@ -1,0 +1,685 @@
+--2020-08-10 13:12:39--  http://localhost:3001/
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:3001... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24800 (24K) [text/html]
+Saving to: ‘docs/index.html’
+
+index.html                           0%[                                                               ]       0  --.-KB/s               index.html                         100%[==============================================================>]  24,22K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (291 MB/s) - ‘docs/index.html’ saved [24800/24800]
+
+Loading robots.txt; please ignore errors.
+--2020-08-10 13:12:40--  http://localhost:3001/robots.txt
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 89 [text/plain]
+Saving to: ‘docs/robots.txt’
+
+robots.txt                           0%[                                                               ]       0  --.-KB/s               robots.txt                         100%[==============================================================>]      89  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (3,51 MB/s) - ‘docs/robots.txt’ saved [89/89]
+
+Loading robots.txt; please ignore errors.
+--2020-08-10 13:12:40--  http://localhost:2368/robots.txt
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+--2020-08-10 13:12:40--  http://localhost:3001/assets/css/app.css?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 62458 (61K) [text/css]
+Saving to: ‘docs/assets/css/app.css?v=191abf4f72.css’
+
+assets/css/app.css?v=191abf4f72.cs   0%[                                                               ]       0  --.-KB/s               assets/css/app.css?v=191abf4f72.cs 100%[==============================================================>]  60,99K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (145 MB/s) - ‘docs/assets/css/app.css?v=191abf4f72.css’ saved [62458/62458]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/js/manifest.js?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 1493 (1,5K) [application/javascript]
+Saving to: ‘docs/assets/js/manifest.js?v=191abf4f72’
+
+assets/js/manifest.js?v=191abf4f72   0%[                                                               ]       0  --.-KB/s               assets/js/manifest.js?v=191abf4f72 100%[==============================================================>]   1,46K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (155 MB/s) - ‘docs/assets/js/manifest.js?v=191abf4f72’ saved [1493/1493]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/js/vendor/content-api.min.js?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 37260 (36K) [application/javascript]
+Saving to: ‘docs/assets/js/vendor/content-api.min.js?v=191abf4f72’
+
+                 assets/js/vendor/   0%[                                                               ]       0  --.-KB/s               assets/js/vendor/content-api.min.j 100%[==============================================================>]  36,39K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (219 MB/s) - ‘docs/assets/js/vendor/content-api.min.js?v=191abf4f72’ saved [37260/37260]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/js/vendor.js?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 206919 (202K) [application/javascript]
+Saving to: ‘docs/assets/js/vendor.js?v=191abf4f72’
+
+assets/js/vendor.js?v=191abf4f72     0%[                                                               ]       0  --.-KB/s               assets/js/vendor.js?v=191abf4f72   100%[==============================================================>] 202,07K  --.-KB/s    in 0,002s  
+
+2020-08-10 13:12:40 (123 MB/s) - ‘docs/assets/js/vendor.js?v=191abf4f72’ saved [206919/206919]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/js/app.js?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 7050 (6,9K) [application/javascript]
+Saving to: ‘docs/assets/js/app.js?v=191abf4f72’
+
+assets/js/app.js?v=191abf4f72        0%[                                                               ]       0  --.-KB/s               assets/js/app.js?v=191abf4f72      100%[==============================================================>]   6,88K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (686 MB/s) - ‘docs/assets/js/app.js?v=191abf4f72’ saved [7050/7050]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/css/home.css?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 3968 (3,9K) [text/css]
+Saving to: ‘docs/assets/css/home.css?v=191abf4f72.css’
+
+assets/css/home.css?v=191abf4f72.c   0%[                                                               ]       0  --.-KB/s               assets/css/home.css?v=191abf4f72.c 100%[==============================================================>]   3,88K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (430 MB/s) - ‘docs/assets/css/home.css?v=191abf4f72.css’ saved [3968/3968]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/css/listing.css?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 576 [text/css]
+Saving to: ‘docs/assets/css/listing.css?v=191abf4f72.css’
+
+assets/css/listing.css?v=191abf4f7   0%[                                                               ]       0  --.-KB/s               assets/css/listing.css?v=191abf4f7 100%[==============================================================>]     576  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (48,2 MB/s) - ‘docs/assets/css/listing.css?v=191abf4f72.css’ saved [576/576]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/js/home.js?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 3824 (3,7K) [application/javascript]
+Saving to: ‘docs/assets/js/home.js?v=191abf4f72’
+
+assets/js/home.js?v=191abf4f72       0%[                                                               ]       0  --.-KB/s               assets/js/home.js?v=191abf4f72     100%[==============================================================>]   3,73K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (333 MB/s) - ‘docs/assets/js/home.js?v=191abf4f72’ saved [3824/3824]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-regular.woff2?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 16112 (16K) [font/woff2]
+Saving to: ‘docs/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-regular.woff2?v=191abf4f72’
+
+                 assets/fonts/sour   0%[                                                               ]       0  --.-KB/s               assets/fonts/source-sans-pro/sourc 100%[==============================================================>]  15,73K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (70,2 MB/s) - ‘docs/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-regular.woff2?v=191abf4f72’ saved [16112/16112]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-regular.woff?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 20180 (20K) [font/woff]
+Saving to: ‘docs/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-regular.woff?v=191abf4f72’
+
+                 assets/fonts/sour   0%[                                                               ]       0  --.-KB/s               assets/fonts/source-sans-pro/sourc 100%[==============================================================>]  19,71K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (245 MB/s) - ‘docs/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-regular.woff?v=191abf4f72’ saved [20180/20180]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-600.woff2?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 15948 (16K) [font/woff2]
+Saving to: ‘docs/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-600.woff2?v=191abf4f72’
+
+                 assets/fonts/sour   0%[                                                               ]       0  --.-KB/s               assets/fonts/source-sans-pro/sourc 100%[==============================================================>]  15,57K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (347 MB/s) - ‘docs/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-600.woff2?v=191abf4f72’ saved [15948/15948]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-600.woff?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 20096 (20K) [font/woff]
+Saving to: ‘docs/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-600.woff?v=191abf4f72’
+
+                 assets/fonts/sour   0%[                                                               ]       0  --.-KB/s               assets/fonts/source-sans-pro/sourc 100%[==============================================================>]  19,62K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (365 MB/s) - ‘docs/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-600.woff?v=191abf4f72’ saved [20096/20096]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-700.woff2?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 15764 (15K) [font/woff2]
+Saving to: ‘docs/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-700.woff2?v=191abf4f72’
+
+                 assets/fonts/sour   0%[                                                               ]       0  --.-KB/s               assets/fonts/source-sans-pro/sourc 100%[==============================================================>]  15,39K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (76,6 MB/s) - ‘docs/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-700.woff2?v=191abf4f72’ saved [15764/15764]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-700.woff?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 19896 (19K) [font/woff]
+Saving to: ‘docs/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-700.woff?v=191abf4f72’
+
+                 assets/fonts/sour   0%[                                                               ]       0  --.-KB/s               assets/fonts/source-sans-pro/sourc 100%[==============================================================>]  19,43K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (287 MB/s) - ‘docs/assets/fonts/source-sans-pro/source-sans-pro-v13-latin-700.woff?v=191abf4f72’ saved [19896/19896]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/fonts/icomoon/icomoon.eot?vukg2s?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 14388 (14K) [application/vnd.ms-fontobject]
+Saving to: ‘docs/assets/fonts/icomoon/icomoon.eot?vukg2s?v=191abf4f72’
+
+                 assets/fonts/icom   0%[                                                               ]       0  --.-KB/s               assets/fonts/icomoon/icomoon.eot?v 100%[==============================================================>]  14,05K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (296 MB/s) - ‘docs/assets/fonts/icomoon/icomoon.eot?vukg2s?v=191abf4f72’ saved [14388/14388]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/fonts/icomoon/icomoon.eot?vukg2s
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 14388 (14K) [application/vnd.ms-fontobject]
+Saving to: ‘docs/assets/fonts/icomoon/icomoon.eot?vukg2s’
+
+assets/fonts/icomoon/icomoon.eot?v   0%[                                                               ]       0  --.-KB/s               assets/fonts/icomoon/icomoon.eot?v 100%[==============================================================>]  14,05K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (296 MB/s) - ‘docs/assets/fonts/icomoon/icomoon.eot?vukg2s’ saved [14388/14388]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/fonts/icomoon/icomoon.ttf?vukg2s?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 14224 (14K) [font/ttf]
+Saving to: ‘docs/assets/fonts/icomoon/icomoon.ttf?vukg2s?v=191abf4f72’
+
+                 assets/fonts/icom   0%[                                                               ]       0  --.-KB/s               assets/fonts/icomoon/icomoon.ttf?v 100%[==============================================================>]  13,89K  --.-KB/s    in 0,001s  
+
+2020-08-10 13:12:40 (16,4 MB/s) - ‘docs/assets/fonts/icomoon/icomoon.ttf?vukg2s?v=191abf4f72’ saved [14224/14224]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/fonts/icomoon/icomoon.woff?vukg2s?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 14300 (14K) [font/woff]
+Saving to: ‘docs/assets/fonts/icomoon/icomoon.woff?vukg2s?v=191abf4f72’
+
+                 assets/fonts/icom   0%[                                                               ]       0  --.-KB/s               assets/fonts/icomoon/icomoon.woff? 100%[==============================================================>]  13,96K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (322 MB/s) - ‘docs/assets/fonts/icomoon/icomoon.woff?vukg2s?v=191abf4f72’ saved [14300/14300]
+
+--2020-08-10 13:12:40--  http://localhost:3001/assets/fonts/icomoon/icomoon.svg?vukg2s
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 50450 (49K) [image/svg+xml]
+Saving to: ‘docs/assets/fonts/icomoon/icomoon.svg?vukg2s’
+
+assets/fonts/icomoon/icomoon.svg?v   0%[                                                               ]       0  --.-KB/s               assets/fonts/icomoon/icomoon.svg?v 100%[==============================================================>]  49,27K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (260 MB/s) - ‘docs/assets/fonts/icomoon/icomoon.svg?vukg2s’ saved [50450/50450]
+
+--2020-08-10 13:12:40--  http://localhost:3001/content/images/size/w1000/2020/08/Screenshot_2020-08-05-CNCF-Cloud-Native-Interactive-Landscape-1-.png
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 297732 (291K) [image/png]
+Saving to: ‘docs/content/images/size/w1000/2020/08/Screenshot_2020-08-05-CNCF-Cloud-Native-Interactive-Landscape-1-.png’
+
+                 content/images/si   0%[                                                               ]       0  --.-KB/s               content/images/size/w1000/2020/08/ 100%[==============================================================>] 290,75K  --.-KB/s    in 0,002s  
+
+2020-08-10 13:12:40 (135 MB/s) - ‘docs/content/images/size/w1000/2020/08/Screenshot_2020-08-05-CNCF-Cloud-Native-Interactive-Landscape-1-.png’ saved [297732/297732]
+
+--2020-08-10 13:12:40--  http://localhost:3001/content/images/size/w600/2020/08/Screenshot_2020-08-05-CNCF-Cloud-Native-Interactive-Landscape-1-.png
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 297732 (291K) [image/png]
+Saving to: ‘docs/content/images/size/w600/2020/08/Screenshot_2020-08-05-CNCF-Cloud-Native-Interactive-Landscape-1-.png’
+
+                 content/images/si   0%[                                                               ]       0  --.-KB/s               content/images/size/w600/2020/08/S 100%[==============================================================>] 290,75K  --.-KB/s    in 0,003s  
+
+2020-08-10 13:12:40 (95,3 MB/s) - ‘docs/content/images/size/w600/2020/08/Screenshot_2020-08-05-CNCF-Cloud-Native-Interactive-Landscape-1-.png’ saved [297732/297732]
+
+--2020-08-10 13:12:40--  http://localhost:3001/content/images/size/w100/2020/08/Screenshot_2020-08-05-CNCF-Cloud-Native-Interactive-Landscape-1-.png
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 10368 (10K) [image/png]
+Saving to: ‘docs/content/images/size/w100/2020/08/Screenshot_2020-08-05-CNCF-Cloud-Native-Interactive-Landscape-1-.png’
+
+                 content/images/si   0%[                                                               ]       0  --.-KB/s               content/images/size/w100/2020/08/S 100%[==============================================================>]  10,12K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (230 MB/s) - ‘docs/content/images/size/w100/2020/08/Screenshot_2020-08-05-CNCF-Cloud-Native-Interactive-Landscape-1-.png’ saved [10368/10368]
+
+--2020-08-10 13:12:40--  http://localhost:2368/
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+--2020-08-10 13:12:40--  http://localhost:2368/rss/
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+--2020-08-10 13:12:40--  http://localhost:3001/Home
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /Home/ [following]
+--2020-08-10 13:12:40--  http://localhost:3001/Home/
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /home/ [following]
+--2020-08-10 13:12:40--  http://localhost:3001/home/
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 19590 (19K) [text/html]
+Saving to: ‘docs/Home.html’
+
+Home.html                            0%[                                                               ]       0  --.-KB/s               Home.html                          100%[==============================================================>]  19,13K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (301 MB/s) - ‘docs/Home.html’ saved [19590/19590]
+
+--2020-08-10 13:12:40--  http://localhost:3001/About
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /About/ [following]
+--2020-08-10 13:12:40--  http://localhost:3001/About/
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /about/ [following]
+--2020-08-10 13:12:40--  http://localhost:3001/about/
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 20319 (20K) [text/html]
+Saving to: ‘docs/About.html’
+
+About.html                           0%[                                                               ]       0  --.-KB/s               About.html                         100%[==============================================================>]  19,84K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:40 (328 MB/s) - ‘docs/About.html’ saved [20319/20319]
+
+--2020-08-10 13:12:40--  http://localhost:3001/resume
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /resume/ [following]
+--2020-08-10 13:12:40--  http://localhost:3001/resume/
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 21322 (21K) [text/html]
+Saving to: ‘docs/resume.html’
+
+resume.html                          0%[                                                               ]       0  --.-KB/s               resume.html                        100%[==============================================================>]  20,82K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:41 (295 MB/s) - ‘docs/resume.html’ saved [21322/21322]
+
+--2020-08-10 13:12:41--  http://localhost:3001/tags
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /tags/ [following]
+--2020-08-10 13:12:41--  http://localhost:3001/tags/
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 18026 (18K) [text/html]
+Saving to: ‘docs/tags.html’
+
+tags.html                            0%[                                                               ]       0  --.-KB/s               tags.html                          100%[==============================================================>]  17,60K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:41 (288 MB/s) - ‘docs/tags.html’ saved [18026/18026]
+
+--2020-08-10 13:12:41--  http://localhost:3001/kafka-iiot-use-cases/
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 23768 (23K) [text/html]
+Saving to: ‘docs/kafka-iiot-use-cases/index.html’
+
+kafka-iiot-use-cases/index.html      0%[                                                               ]       0  --.-KB/s               kafka-iiot-use-cases/index.html    100%[==============================================================>]  23,21K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:41 (331 MB/s) - ‘docs/kafka-iiot-use-cases/index.html’ saved [23768/23768]
+
+--2020-08-10 13:12:41--  http://localhost:3001/assets/images/no-image.png?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 2884 (2,8K) [image/png]
+Saving to: ‘docs/assets/images/no-image.png?v=191abf4f72’
+
+assets/images/no-image.png?v=191ab   0%[                                                               ]       0  --.-KB/s               assets/images/no-image.png?v=191ab 100%[==============================================================>]   2,82K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:41 (280 MB/s) - ‘docs/assets/images/no-image.png?v=191abf4f72’ saved [2884/2884]
+
+--2020-08-10 13:12:41--  http://localhost:3001/building-secure-and-reliable-systems/
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 24317 (24K) [text/html]
+Saving to: ‘docs/building-secure-and-reliable-systems/index.html’
+
+                 building-secure-a   0%[                                                               ]       0  --.-KB/s               building-secure-and-reliable-syste 100%[==============================================================>]  23,75K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:41 (374 MB/s) - ‘docs/building-secure-and-reliable-systems/index.html’ saved [24317/24317]
+
+--2020-08-10 13:12:41--  http://localhost:3001/sre-tools/
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 24296 (24K) [text/html]
+Saving to: ‘docs/sre-tools/index.html’
+
+sre-tools/index.html                 0%[                                                               ]       0  --.-KB/s               sre-tools/index.html               100%[==============================================================>]  23,73K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:41 (367 MB/s) - ‘docs/sre-tools/index.html’ saved [24296/24296]
+
+--2020-08-10 13:12:41--  http://localhost:3001/architecture-as-a-code/
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 24665 (24K) [text/html]
+Saving to: ‘docs/architecture-as-a-code/index.html’
+
+architecture-as-a-code/index.html    0%[                                                               ]       0  --.-KB/s               architecture-as-a-code/index.html  100%[==============================================================>]  24,09K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:41 (229 MB/s) - ‘docs/architecture-as-a-code/index.html’ saved [24665/24665]
+
+--2020-08-10 13:12:41--  http://localhost:3001/tag/architecture/
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 20256 (20K) [text/html]
+Saving to: ‘docs/tag/architecture/index.html’
+
+tag/architecture/index.html          0%[                                                               ]       0  --.-KB/s               tag/architecture/index.html        100%[==============================================================>]  19,78K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:41 (345 MB/s) - ‘docs/tag/architecture/index.html’ saved [20256/20256]
+
+--2020-08-10 13:12:41--  http://localhost:3001/tag/kafka/
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 18851 (18K) [text/html]
+Saving to: ‘docs/tag/kafka/index.html’
+
+tag/kafka/index.html                 0%[                                                               ]       0  --.-KB/s               tag/kafka/index.html               100%[==============================================================>]  18,41K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:41 (218 MB/s) - ‘docs/tag/kafka/index.html’ saved [18851/18851]
+
+--2020-08-10 13:12:41--  http://localhost:3001/tag/security/
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 17697 (17K) [text/html]
+Saving to: ‘docs/tag/security/index.html’
+
+tag/security/index.html              0%[                                                               ]       0  --.-KB/s               tag/security/index.html            100%[==============================================================>]  17,28K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (208 MB/s) - ‘docs/tag/security/index.html’ saved [17697/17697]
+
+--2020-08-10 13:12:42--  http://localhost:2368/author/sudhakar/
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+--2020-08-10 13:12:42--  http://localhost:3001/assets/images/default-avatar-square-small.jpg?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 4135 (4,0K) [image/jpeg]
+Saving to: ‘docs/assets/images/default-avatar-square-small.jpg?v=191abf4f72’
+
+                 assets/images/def   0%[                                                               ]       0  --.-KB/s               assets/images/default-avatar-squar 100%[==============================================================>]   4,04K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (400 MB/s) - ‘docs/assets/images/default-avatar-square-small.jpg?v=191abf4f72’ saved [4135/4135]
+
+--2020-08-10 13:12:42--  http://localhost:2368/tag/kafka/
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+--2020-08-10 13:12:42--  http://localhost:2368/tag/architecture/
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+--2020-08-10 13:12:42--  http://localhost:3001/blog/
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 22706 (22K) [text/html]
+Saving to: ‘docs/blog/index.html’
+
+blog/index.html                      0%[                                                               ]       0  --.-KB/s               blog/index.html                    100%[==============================================================>]  22,17K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (275 MB/s) - ‘docs/blog/index.html’ saved [22706/22706]
+
+--2020-08-10 13:12:42--  http://localhost:2368/tag/security/
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+--2020-08-10 13:12:42--  http://localhost:3001/blog-3/
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 23732 (23K) [text/html]
+Saving to: ‘docs/blog-3/index.html’
+
+blog-3/index.html                    0%[                                                               ]       0  --.-KB/s               blog-3/index.html                  100%[==============================================================>]  23,18K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (262 MB/s) - ‘docs/blog-3/index.html’ saved [23732/23732]
+
+--2020-08-10 13:12:42--  http://localhost:3001/assets/html/javascript.html?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 1542 (1,5K) [text/html]
+Saving to: ‘docs/assets/html/javascript.html?v=191abf4f72.html’
+
+                 assets/html/javas   0%[                                                               ]       0  --.-KB/s               assets/html/javascript.html?v=191a 100%[==============================================================>]   1,51K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (156 MB/s) - ‘docs/assets/html/javascript.html?v=191abf4f72.html’ saved [1542/1542]
+
+--2020-08-10 13:12:42--  http://localhost:3001/assets/css/post.css?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 21693 (21K) [text/css]
+Saving to: ‘docs/assets/css/post.css?v=191abf4f72.css’
+
+assets/css/post.css?v=191abf4f72.c   0%[                                                               ]       0  --.-KB/s               assets/css/post.css?v=191abf4f72.c 100%[==============================================================>]  21,18K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (210 MB/s) - ‘docs/assets/css/post.css?v=191abf4f72.css’ saved [21693/21693]
+
+--2020-08-10 13:12:42--  http://localhost:3001/assets/js/page.js?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 2612 (2,6K) [application/javascript]
+Saving to: ‘docs/assets/js/page.js?v=191abf4f72’
+
+assets/js/page.js?v=191abf4f72       0%[                                                               ]       0  --.-KB/s               assets/js/page.js?v=191abf4f72     100%[==============================================================>]   2,55K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (214 MB/s) - ‘docs/assets/js/page.js?v=191abf4f72’ saved [2612/2612]
+
+--2020-08-10 13:12:42--  http://localhost:3001/content/images/size/w1000/2020/08/IMG_20181015_143913.jpg
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 183910 (180K) [image/jpeg]
+Saving to: ‘docs/content/images/size/w1000/2020/08/IMG_20181015_143913.jpg’
+
+                 content/images/si   0%[                                                               ]       0  --.-KB/s               content/images/size/w1000/2020/08/ 100%[==============================================================>] 179,60K  --.-KB/s    in 0,002s  
+
+2020-08-10 13:12:42 (89,3 MB/s) - ‘docs/content/images/size/w1000/2020/08/IMG_20181015_143913.jpg’ saved [183910/183910]
+
+--2020-08-10 13:12:42--  http://localhost:3001/content/images/size/w600/2020/08/IMG_20181015_143913.jpg
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 183910 (180K) [image/jpeg]
+Saving to: ‘docs/content/images/size/w600/2020/08/IMG_20181015_143913.jpg’
+
+                 content/images/si   0%[                                                               ]       0  --.-KB/s               content/images/size/w600/2020/08/I 100%[==============================================================>] 179,60K  --.-KB/s    in 0,001s  
+
+2020-08-10 13:12:42 (127 MB/s) - ‘docs/content/images/size/w600/2020/08/IMG_20181015_143913.jpg’ saved [183910/183910]
+
+--2020-08-10 13:12:42--  http://localhost:3001/content/images/size/w100/2020/08/IMG_20181015_143913.jpg
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 1735 (1,7K) [image/jpeg]
+Saving to: ‘docs/content/images/size/w100/2020/08/IMG_20181015_143913.jpg’
+
+                 content/images/si   0%[                                                               ]       0  --.-KB/s               content/images/size/w100/2020/08/I 100%[==============================================================>]   1,69K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (147 MB/s) - ‘docs/content/images/size/w100/2020/08/IMG_20181015_143913.jpg’ saved [1735/1735]
+
+--2020-08-10 13:12:42--  http://localhost:2368/about/
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+--2020-08-10 13:12:42--  http://localhost:3001/content/images/size/w1000/2020/08/SkillRadar.png
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 75031 (73K) [image/png]
+Saving to: ‘docs/content/images/size/w1000/2020/08/SkillRadar.png’
+
+                 content/images/si   0%[                                                               ]       0  --.-KB/s               content/images/size/w1000/2020/08/ 100%[==============================================================>]  73,27K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (257 MB/s) - ‘docs/content/images/size/w1000/2020/08/SkillRadar.png’ saved [75031/75031]
+
+--2020-08-10 13:12:42--  http://localhost:3001/content/images/size/w600/2020/08/SkillRadar.png
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 75031 (73K) [image/png]
+Saving to: ‘docs/content/images/size/w600/2020/08/SkillRadar.png’
+
+                 content/images/si   0%[                                                               ]       0  --.-KB/s               content/images/size/w600/2020/08/S 100%[==============================================================>]  73,27K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (218 MB/s) - ‘docs/content/images/size/w600/2020/08/SkillRadar.png’ saved [75031/75031]
+
+--2020-08-10 13:12:42--  http://localhost:3001/content/images/size/w100/2020/08/SkillRadar.png
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 3108 (3,0K) [image/png]
+Saving to: ‘docs/content/images/size/w100/2020/08/SkillRadar.png’
+
+                 content/images/si   0%[                                                               ]       0  --.-KB/s               content/images/size/w100/2020/08/S 100%[==============================================================>]   3,04K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (322 MB/s) - ‘docs/content/images/size/w100/2020/08/SkillRadar.png’ saved [3108/3108]
+
+--2020-08-10 13:12:42--  http://localhost:2368/resume/
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+--2020-08-10 13:12:42--  http://localhost:3001/assets/css/tags.css?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 1503 (1,5K) [text/css]
+Saving to: ‘docs/assets/css/tags.css?v=191abf4f72.css’
+
+assets/css/tags.css?v=191abf4f72.c   0%[                                                               ]       0  --.-KB/s               assets/css/tags.css?v=191abf4f72.c 100%[==============================================================>]   1,47K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (196 MB/s) - ‘docs/assets/css/tags.css?v=191abf4f72.css’ saved [1503/1503]
+
+--2020-08-10 13:12:42--  http://localhost:3001/content/images/size/w1000/2020/08/photo-1521452967839-27ce29d2820d.jpeg
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 170869 (167K) [image/jpeg]
+Saving to: ‘docs/content/images/size/w1000/2020/08/photo-1521452967839-27ce29d2820d.jpeg’
+
+                 content/images/si   0%[                                                               ]       0  --.-KB/s               content/images/size/w1000/2020/08/ 100%[==============================================================>] 166,86K  --.-KB/s    in 0,001s  
+
+2020-08-10 13:12:42 (144 MB/s) - ‘docs/content/images/size/w1000/2020/08/photo-1521452967839-27ce29d2820d.jpeg’ saved [170869/170869]
+
+--2020-08-10 13:12:42--  http://localhost:3001/content/images/size/w600/2020/08/photo-1521452967839-27ce29d2820d.jpeg
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 170869 (167K) [image/jpeg]
+Saving to: ‘docs/content/images/size/w600/2020/08/photo-1521452967839-27ce29d2820d.jpeg’
+
+                 content/images/si   0%[                                                               ]       0  --.-KB/s               content/images/size/w600/2020/08/p 100%[==============================================================>] 166,86K  --.-KB/s    in 0,001s  
+
+2020-08-10 13:12:42 (140 MB/s) - ‘docs/content/images/size/w600/2020/08/photo-1521452967839-27ce29d2820d.jpeg’ saved [170869/170869]
+
+--2020-08-10 13:12:42--  http://localhost:3001/content/images/size/w100/2020/08/photo-1521452967839-27ce29d2820d.jpeg
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 2374 (2,3K) [image/jpeg]
+Saving to: ‘docs/content/images/size/w100/2020/08/photo-1521452967839-27ce29d2820d.jpeg’
+
+                 content/images/si   0%[                                                               ]       0  --.-KB/s               content/images/size/w100/2020/08/p 100%[==============================================================>]   2,32K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (186 MB/s) - ‘docs/content/images/size/w100/2020/08/photo-1521452967839-27ce29d2820d.jpeg’ saved [2374/2374]
+
+--2020-08-10 13:12:42--  http://localhost:2368/tags/
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+--2020-08-10 13:12:42--  http://localhost:3001/assets/js/post.js?v=191abf4f72
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 4861 (4,7K) [application/javascript]
+Saving to: ‘docs/assets/js/post.js?v=191abf4f72’
+
+assets/js/post.js?v=191abf4f72       0%[                                                               ]       0  --.-KB/s               assets/js/post.js?v=191abf4f72     100%[==============================================================>]   4,75K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (488 MB/s) - ‘docs/assets/js/post.js?v=191abf4f72’ saved [4861/4861]
+
+--2020-08-10 13:12:42--  http://localhost:2368/kafka-iiot-use-cases/
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+--2020-08-10 13:12:42--  http://localhost:2368/building-secure-and-reliable-systems/
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+--2020-08-10 13:12:42--  http://localhost:2368/sre-tools/
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+--2020-08-10 13:12:42--  http://localhost:2368/architecture-as-a-code/
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+--2020-08-10 13:12:42--  http://localhost:2368/blog/
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+--2020-08-10 13:12:42--  http://localhost:2368/blog-3/
+Connecting to localhost (localhost)|127.0.0.1|:2368... failed: Connection refused.
+--2020-08-10 13:12:42--  http://localhost:3001/assets/js/manifest.js
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 1493 (1,5K) [application/javascript]
+Saving to: ‘docs/assets/js/manifest.js’
+
+assets/js/manifest.js                0%[                                                               ]       0  --.-KB/s               assets/js/manifest.js              100%[==============================================================>]   1,46K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (158 MB/s) - ‘docs/assets/js/manifest.js’ saved [1493/1493]
+
+--2020-08-10 13:12:42--  http://localhost:3001/assets/js/helpers.js
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 2536 (2,5K) [application/javascript]
+Saving to: ‘docs/assets/js/helpers.js’
+
+assets/js/helpers.js                 0%[                                                               ]       0  --.-KB/s               assets/js/helpers.js               100%[==============================================================>]   2,48K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (235 MB/s) - ‘docs/assets/js/helpers.js’ saved [2536/2536]
+
+--2020-08-10 13:12:42--  http://localhost:3001/assets/js/app.js
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 7050 (6,9K) [application/javascript]
+Saving to: ‘docs/assets/js/app.js’
+
+assets/js/app.js                     0%[                                                               ]       0  --.-KB/s               assets/js/app.js                   100%[==============================================================>]   6,88K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (674 MB/s) - ‘docs/assets/js/app.js’ saved [7050/7050]
+
+--2020-08-10 13:12:42--  http://localhost:3001/assets/js/vendor.js
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 206919 (202K) [application/javascript]
+Saving to: ‘docs/assets/js/vendor.js’
+
+assets/js/vendor.js                  0%[                                                               ]       0  --.-KB/s               assets/js/vendor.js                100%[==============================================================>] 202,07K  --.-KB/s    in 0,002s  
+
+2020-08-10 13:12:42 (87,4 MB/s) - ‘docs/assets/js/vendor.js’ saved [206919/206919]
+
+--2020-08-10 13:12:42--  http://localhost:3001/assets/js/home.js
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 3824 (3,7K) [application/javascript]
+Saving to: ‘docs/assets/js/home.js’
+
+assets/js/home.js                    0%[                                                               ]       0  --.-KB/s               assets/js/home.js                  100%[==============================================================>]   3,73K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (329 MB/s) - ‘docs/assets/js/home.js’ saved [3824/3824]
+
+--2020-08-10 13:12:42--  http://localhost:3001/assets/js/page.js
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 2612 (2,6K) [application/javascript]
+Saving to: ‘docs/assets/js/page.js’
+
+assets/js/page.js                    0%[                                                               ]       0  --.-KB/s               assets/js/page.js                  100%[==============================================================>]   2,55K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (249 MB/s) - ‘docs/assets/js/page.js’ saved [2612/2612]
+
+--2020-08-10 13:12:42--  http://localhost:3001/assets/js/post.js
+Reusing existing connection to localhost:3001.
+HTTP request sent, awaiting response... 200 OK
+Length: 4861 (4,7K) [application/javascript]
+Saving to: ‘docs/assets/js/post.js’
+
+assets/js/post.js                    0%[                                                               ]       0  --.-KB/s               assets/js/post.js                  100%[==============================================================>]   4,75K  --.-KB/s    in 0s      
+
+2020-08-10 13:12:42 (407 MB/s) - ‘docs/assets/js/post.js’ saved [4861/4861]
+
+FINISHED --2020-08-10 13:12:42--
+Total wall clock time: 2,8s
+Downloaded: 60 files, 2,5M in 0,02s (130 MB/s)
+Converting links in docs/tags.html... 45-0
+Converting links in docs/tag/architecture/index.html... 48-0
+Converting links in docs/index.html... 64-0
+Converting links in docs/sre-tools/index.html... 49-0
+Converting links in docs/building-secure-and-reliable-systems/index.html... 49-0
+Converting links in docs/assets/html/javascript.html?v=191abf4f72.html... 14-0
+Converting links in docs/tag/security/index.html... 42-0
+Converting links in docs/About.html... 44-0
+Converting links in docs/Home.html... 41-0
+Converting links in docs/blog/index.html... 43-0
+Converting links in docs/blog-3/index.html... 46-0
+Converting links in docs/kafka-iiot-use-cases/index.html... 46-0
+Converting links in docs/tag/kafka/index.html... 45-0
+Converting links in docs/resume.html... 44-0
+Converting links in docs/architecture-as-a-code/index.html... 49-0
+Converting links in docs/assets/css/listing.css?v=191abf4f72.css... nothing to do.
+Converting links in docs/assets/css/post.css?v=191abf4f72.css... nothing to do.
+Converting links in docs/assets/css/home.css?v=191abf4f72.css... nothing to do.
+Converting links in docs/assets/css/tags.css?v=191abf4f72.css... nothing to do.
+Converting links in docs/assets/css/app.css?v=191abf4f72.css... nothing to do.
+Converted links in 20 files in 0,02 seconds.
